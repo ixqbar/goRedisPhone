@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+    <listen>0.0.0.0:8799</listen>
+    <dict>/data/server/redisPhone/dict/phone.dat</dict>
+</config>
