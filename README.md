@@ -42,6 +42,15 @@ try {
 } catch(Throwable $e) {
     echo $e->getMessage() . PHP_EOL;
 }
+
+Array
+(
+    [type] => 1
+    [region] => 上海
+    [city] => 上海
+    [district] => 021
+    [zip] => 200000
+)
 ```
 * type 1移动 2联通 3电信 4电信虚拟运营商 5联通虚拟运营商 6移动虚拟运营商
 
